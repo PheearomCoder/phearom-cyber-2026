@@ -23,11 +23,11 @@ document.querySelectorAll('.nav__links a').forEach(a => {
 
 // ── TYPEWRITER ──────────────────────────────────────────────────────────────
 const taglines = [
-  'Offensive Security Student @ RUPP',
+  'Cybersecurity @ SalaCyber · RUPP',
   'SalaCyber Web Hacking Essential · Certified',
+  'Red Team Leader CCEP · Certified',
   'Ethical Hacker · Cisco Certified',
   'Cyber Threat Intelligence Analyst',
-  'Front-End & Back-End Developer',
   '#Ph3@R0M · Hack to Learn',
 ];
 
